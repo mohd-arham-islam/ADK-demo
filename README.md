@@ -18,7 +18,7 @@ ALPHA_VANTAGE_API_KEY="<YOUR_ALPHA_VANTAGE_KEY>"
 Replace <YOUR_GOOGLE_API_KEY> and <YOUR_ALPHA_VANTAGE_KEY> with your actual API keys.
 
 ## 3. Run the Agent
-Navigate to the parent folder and run the following code:
+Navigate to the parent folder (which contains your multi_agent sub folder) and run the following code:
 
 ```ini
 adk web
