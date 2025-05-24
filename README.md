@@ -21,7 +21,6 @@ Replace <YOUR_GOOGLE_API_KEY> and <YOUR_ALPHA_VANTAGE_KEY> with your actual API 
 Navigate to the parent folder and run the following code:
 
 ```ini
-cd ADK-demo
 adk web
 ```
 
